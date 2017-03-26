@@ -1,0 +1,6 @@
+adevis_api_ad:
+    resource: "@MikyApiBundle/Resources/config/routing/ad.yml"
+
+adevis_api_user:
+    resource: "@MikyApiBundle/Resources/config/routing/customer.yml"
+

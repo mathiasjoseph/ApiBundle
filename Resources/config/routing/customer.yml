@@ -1,0 +1,5 @@
+adevis_api_user:
+    type:     rest
+    resource: Miky\Bundle\UserBundle\Controller\Api\FavoriteApiController
+    options:
+        expose: true
