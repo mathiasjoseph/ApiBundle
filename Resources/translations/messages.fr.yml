@@ -1,4 +1,4 @@
-adevis:
+miky:
     ui:
         title: Titre
         actions: Actions
@@ -14,7 +14,7 @@ adevis:
         new: Nouveau
         administration: Administration
 
-adevis:
+miky:
     ui:
         contains: Contient
         not_contains : Ne contient pas
