@@ -1,6 +1,0 @@
-miky_api_ad:
-    resource: "@MikyApiBundle/Resources/config/routing/ad.yml"
-
-miky_api_user:
-    resource: "@MikyApiBundle/Resources/config/routing/customer.yml"
-
